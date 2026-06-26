@@ -10,7 +10,7 @@ github-username: your-github-id # ← 본인 GitHub 아이디로 변경하세요
 # 상단 네비게이션
 navbar-links:
   홈: ""
-  GitHub: "https://github.com/your-github-id/n8n-blog"  # ← 본인 GitHub 아이디로 변경하세요
+  GitHub: "https://github.com/amyym05/yoomin"  # ← 본인 GitHub 아이디로 변경하세요
 
 # 컬러 테마 (변경 불필요)
 navbar-col:          "#1A1C2E"
