@@ -5,7 +5,7 @@ permalink: /posts/:year/:month/:day/:slug/
 
 remote_theme: daattali/beautiful-jekyll
 
-github-username: your-github-id  # ← 본인 GitHub 아이디로 변경하세요
+github-username: amyym05  # ← 본인 GitHub 아이디로 변경하세요
 
 # 상단 네비게이션
 navbar-links:
