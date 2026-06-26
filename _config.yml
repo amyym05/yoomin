@@ -1,4 +1,4 @@
-title: "🥠나라샘의 AI 블로그"          # ← 블로그 이름으로 변경하세요
+title: "🥠유민의 AI 블로그"          # ← 블로그 이름으로 변경하세요
 description: "n8n + Solar AI가 자동 생성하는 블로그"
 lang: ko
 permalink: /posts/:year/:month/:day/:slug/
@@ -10,7 +10,7 @@ github-username: your-github-id  # ← 본인 GitHub 아이디로 변경하세�
 # 상단 네비게이션
 navbar-links:
   홈: ""
-  GitHub: "https://github.com/your-github-id/n8n-blog"  # ← 본인 GitHub 아이디로 변경하세요
+  GitHub: "https://github.com/amyym05/n8n-blog"  # ← 본인 GitHub 아이디로 변경하세요
 
 # 컬러 테마 (변경 불필요)
 navbar-col:          "#1A1C2E"
